@@ -1,3 +1,4 @@
 # Recipe App
 
-## Vanilla JavaScript app. First project using API.
+## Vanilla JavaScript app. 
+First project using APIs.
